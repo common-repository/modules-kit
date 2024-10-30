@@ -1,0 +1,1153 @@
+# Copyright (C) 2018
+# This file is distributed under the same license as the  package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Modules Kit - Beaver Buider Modules\n"
+"Report-Msgid-Bugs-To: https://oceanwp.org/support/\n"
+"POT-Creation-Date: 2024-04-15 17:50+0530\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: OceanWP\n"
+"Language-Team: Techeshta <info@techeshta.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _esc_attr__;esc_attr_x;esc_attr_e;esc_html__;"
+"esc_html_e;esc_html_x;__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: modules-kit.php:100 modules-kit.php:109
+msgid "Modules Kit "
+msgstr ""
+
+#: modules-kit.php:100
+msgid " will not work because you have not activated the Beaver Builder."
+msgstr ""
+
+#: modules-kit.php:101
+msgid "Activate Beaver Builder Now"
+msgstr ""
+
+#: modules-kit.php:109
+msgid "will not work because you have not installed the Beaver Builder"
+msgstr ""
+
+#: modules-kit.php:110
+msgid "Install Beaver Builder Now"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:7
+msgid "Call to action"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:8
+#: modules/dual-button/dual-button.php:8 modules/flipbox/flipbox.php:8
+#: modules/infobox/infobox.php:8 modules/our-team/our-team.php:8
+#: modules/pricing-table/pricing-table.php:8
+#: modules/progress-bar/progress-bar.php:8
+#: modules/pull-quotes/pull-quotes.php:8 modules/testimonial/testimonial.php:8
+msgid "An example for coding new modules."
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:9
+#: modules/dual-button/dual-button.php:9 modules/flipbox/flipbox.php:9
+#: modules/infobox/infobox.php:9 modules/our-team/our-team.php:9
+#: modules/pricing-table/pricing-table.php:9
+#: modules/progress-bar/progress-bar.php:9
+#: modules/pull-quotes/pull-quotes.php:9 modules/testimonial/testimonial.php:9
+msgid "Modules Kit"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:26
+#: modules/dual-button/dual-button.php:26 modules/infobox/infobox.php:26
+#: modules/our-team/our-team.php:26 modules/our-team/our-team.php:372
+#: modules/pricing-table/pricing-table.php:749
+#: modules/progress-bar/progress-bar.php:26
+#: modules/testimonial/testimonial.php:26
+msgid "General"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:30 modules/flipbox/flipbox.php:26
+#: modules/infobox/infobox.php:47 modules/infobox/infobox.php:87
+#: modules/our-team/our-team.php:30 modules/our-team/our-team.php:97
+#: modules/pricing-table/pricing-table.php:23
+#: modules/pull-quotes/pull-quotes.php:26
+#: modules/pull-quotes/pull-quotes.php:30
+#: modules/pull-quotes/pull-quotes.php:62
+#: modules/pull-quotes/pull-quotes.php:135
+#: modules/testimonial/testimonial.php:35
+#: modules/testimonial/testimonial.php:149
+msgid "Content"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:35
+msgid "This is heading"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:36
+#: modules/call-to-action/call-to-action.php:132
+#: modules/flipbox/flipbox.php:509 modules/flipbox/flipbox.php:631
+#: modules/infobox/infobox.php:52 modules/infobox/infobox.php:53
+#: modules/infobox/infobox.php:158 modules/our-team/our-team.php:66
+#: modules/pricing-table/pricing-table.php:33
+#: modules/pricing-table/pricing-table.php:175
+msgid "Title"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:41 modules/infobox/infobox.php:58
+msgid "Title HTML Tag"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:44 modules/infobox/infobox.php:61
+#: modules/our-team/our-team.php:50
+msgid "H1"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:45 modules/infobox/infobox.php:62
+#: modules/our-team/our-team.php:51
+msgid "H2"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:46 modules/infobox/infobox.php:63
+#: modules/our-team/our-team.php:52
+msgid "H3"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:47 modules/infobox/infobox.php:64
+#: modules/our-team/our-team.php:53
+msgid "H4"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:48 modules/infobox/infobox.php:65
+#: modules/our-team/our-team.php:54
+msgid "H5"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:49 modules/infobox/infobox.php:66
+#: modules/our-team/our-team.php:55
+msgid "H6"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:55
+#: modules/call-to-action/call-to-action.php:174
+#: modules/flipbox/flipbox.php:75 modules/flipbox/flipbox.php:195
+#: modules/flipbox/flipbox.php:550 modules/flipbox/flipbox.php:673
+#: modules/infobox/infobox.php:72 modules/infobox/infobox.php:200
+#: modules/pricing-table/pricing-table.php:39
+msgid "Description"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:56 modules/infobox/infobox.php:73
+#: modules/pull-quotes/pull-quotes.php:63
+#: modules/testimonial/testimonial.php:36
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:57 modules/flipbox/flipbox.php:77
+#: modules/flipbox/flipbox.php:197 modules/infobox/infobox.php:74
+#: modules/pull-quotes/pull-quotes.php:64
+#: modules/testimonial/testimonial.php:37
+msgid "Add Description"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:63
+#: modules/flipbox/flipbox.php:203 modules/pricing-table/pricing-table.php:141
+msgid "Click Here"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:64
+#: modules/dual-button/dual-button.php:36
+#: modules/dual-button/dual-button.php:54 modules/flipbox/flipbox.php:204
+#: modules/pricing-table/pricing-table.php:142
+msgid "Button Text"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:69
+#: modules/dual-button/dual-button.php:41
+#: modules/dual-button/dual-button.php:59 modules/flipbox/flipbox.php:209
+#: modules/our-team/our-team.php:405
+#: modules/pricing-table/pricing-table.php:147
+#: modules/testimonial/testimonial.php:61
+msgid "Link"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:78
+#: modules/dual-button/dual-button.php:104 modules/infobox/infobox.php:83
+#: modules/our-team/our-team.php:93
+#: modules/pricing-table/pricing-table.php:193
+#: modules/pricing-table/pricing-table.php:524
+#: modules/progress-bar/progress-bar.php:68
+#: modules/pull-quotes/pull-quotes.php:79
+#: modules/testimonial/testimonial.php:70
+msgid "Style"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:82
+#: modules/pricing-table/pricing-table.php:197
+#: modules/pull-quotes/pull-quotes.php:83
+#: modules/testimonial/testimonial.php:74
+msgid "Box"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:87
+#: modules/flipbox/flipbox.php:396 modules/flipbox/flipbox.php:608
+#: modules/infobox/infobox.php:92 modules/our-team/our-team.php:102
+#: modules/pull-quotes/pull-quotes.php:88
+#: modules/testimonial/testimonial.php:79
+msgid "Alignment"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:99
+#: modules/flipbox/flipbox.php:377 modules/flipbox/flipbox.php:589
+#: modules/infobox/infobox.php:103 modules/our-team/our-team.php:114
+#: modules/pricing-table/pricing-table.php:231
+#: modules/pricing-table/pricing-table.php:315
+#: modules/pricing-table/pricing-table.php:468
+#: modules/pull-quotes/pull-quotes.php:100
+#: modules/testimonial/testimonial.php:91
+msgid "Padding"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:118
+#: modules/call-to-action/call-to-action.php:234
+#: modules/dual-button/dual-button.php:169
+#: modules/dual-button/dual-button.php:237
+#: modules/dual-button/dual-button.php:367 modules/flipbox/flipbox.php:101
+#: modules/flipbox/flipbox.php:233 modules/flipbox/flipbox.php:734
+#: modules/our-team/our-team.php:133
+#: modules/pricing-table/pricing-table.php:218
+#: modules/pricing-table/pricing-table.php:302
+#: modules/pricing-table/pricing-table.php:455
+#: modules/pricing-table/pricing-table.php:582
+#: modules/progress-bar/progress-bar.php:89
+#: modules/pull-quotes/pull-quotes.php:121
+msgid "Background Color"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:137
+#: modules/call-to-action/call-to-action.php:179
+#: modules/flipbox/flipbox.php:514 modules/flipbox/flipbox.php:636
+#: modules/flipbox/flipbox.php:678 modules/infobox/infobox.php:163
+#: modules/our-team/our-team.php:201 modules/our-team/our-team.php:244
+#: modules/pricing-table/pricing-table.php:377
+msgid "Spacing"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:151
+#: modules/call-to-action/call-to-action.php:193
+#: modules/flipbox/flipbox.php:496 modules/flipbox/flipbox.php:527
+#: modules/flipbox/flipbox.php:555 modules/flipbox/flipbox.php:649
+#: modules/flipbox/flipbox.php:692 modules/infobox/infobox.php:177
+#: modules/infobox/infobox.php:205 modules/our-team/our-team.php:215
+#: modules/our-team/our-team.php:257
+#: modules/pricing-table/pricing-table.php:487
+#: modules/progress-bar/progress-bar.php:77
+#: modules/progress-bar/progress-bar.php:141
+#: modules/progress-bar/progress-bar.php:183
+#: modules/testimonial/testimonial.php:110
+#: modules/testimonial/testimonial.php:154
+#: modules/testimonial/testimonial.php:182
+#: modules/testimonial/testimonial.php:210
+msgid "Color"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:163
+#: modules/call-to-action/call-to-action.php:205
+#: modules/call-to-action/call-to-action.php:246
+#: modules/dual-button/dual-button.php:195
+#: modules/dual-button/dual-button.php:263
+#: modules/dual-button/dual-button.php:332 modules/flipbox/flipbox.php:539
+#: modules/flipbox/flipbox.php:567 modules/flipbox/flipbox.php:662
+#: modules/flipbox/flipbox.php:705 modules/flipbox/flipbox.php:747
+#: modules/infobox/infobox.php:189 modules/infobox/infobox.php:218
+#: modules/our-team/our-team.php:227 modules/our-team/our-team.php:270
+#: modules/pricing-table/pricing-table.php:640
+#: modules/pricing-table/pricing-table.php:722
+#: modules/progress-bar/progress-bar.php:160
+#: modules/progress-bar/progress-bar.php:195
+#: modules/pull-quotes/pull-quotes.php:153
+#: modules/pull-quotes/pull-quotes.php:194
+#: modules/testimonial/testimonial.php:166
+#: modules/testimonial/testimonial.php:194
+#: modules/testimonial/testimonial.php:222
+msgid "Typography"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:216
+#: modules/dual-button/dual-button.php:108 modules/flipbox/flipbox.php:716
+msgid "Button"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:221
+#: modules/dual-button/dual-button.php:143
+#: modules/dual-button/dual-button.php:211
+#: modules/dual-button/dual-button.php:319 modules/flipbox/flipbox.php:721
+#: modules/pricing-table/pricing-table.php:614
+#: modules/pull-quotes/pull-quotes.php:140
+#: modules/pull-quotes/pull-quotes.php:181
+msgid "Text Color"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:256
+#: modules/flipbox/flipbox.php:757
+msgid "Button Text Padding"
+msgstr ""
+
+#: modules/call-to-action/call-to-action.php:275
+#: modules/flipbox/flipbox.php:408 modules/flipbox/flipbox.php:452
+#: modules/flipbox/flipbox.php:620 modules/flipbox/flipbox.php:776
+#: modules/our-team/our-team.php:185 modules/our-team/our-team.php:328
+#: modules/pricing-table/pricing-table.php:669
+#: modules/pull-quotes/pull-quotes.php:38
+#: modules/testimonial/testimonial.php:138
+msgid "Border"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:7
+msgid "Dual Button"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:30
+msgid "Button 1"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:35
+msgid "Buttton One"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:48
+msgid "Button 2"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:53
+msgid "Buttton Two"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:66
+#: modules/dual-button/dual-button.php:274
+msgid "Connector"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:71
+msgid "Connect Element"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:74
+#: modules/dual-button/dual-button.php:96
+#: modules/pricing-table/pricing-table.php:758
+msgid "Text"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:75 modules/flipbox/flipbox.php:40
+#: modules/flipbox/flipbox.php:463 modules/our-team/our-team.php:399
+#: modules/pricing-table/pricing-table.php:763
+msgid "Icon"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:89 modules/flipbox/flipbox.php:63
+#: modules/pull-quotes/pull-quotes.php:56
+msgid "Select Icon"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:95
+msgid "OR"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:113
+msgid "button height"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:127
+msgid "Button Border"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:138
+msgid "Button One"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:156
+#: modules/dual-button/dual-button.php:224
+msgid "Text Hover Color"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:182
+#: modules/dual-button/dual-button.php:250
+msgid "Background Hover Color"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:206
+msgid "Button Two"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:279 modules/flipbox/flipbox.php:161
+#: modules/flipbox/flipbox.php:293 modules/flipbox/flipbox.php:468
+#: modules/our-team/our-team.php:151 modules/pull-quotes/pull-quotes.php:266
+msgid "Size"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:305
+msgid "Radius"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:342 modules/our-team/our-team.php:286
+msgid "Icon Size"
+msgstr ""
+
+#: modules/dual-button/dual-button.php:354
+msgid "Icon Color"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:7
+msgid "Flipbox"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:30
+msgid "Front"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:35
+msgid "Graphic Element"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:38 modules/flipbox/flipbox.php:85
+#: modules/flipbox/flipbox.php:217 modules/pricing-table/pricing-table.php:53
+msgid "None"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:39 modules/flipbox/flipbox.php:113
+#: modules/flipbox/flipbox.php:245 modules/flipbox/flipbox.php:419
+#: modules/infobox/infobox.php:30 modules/infobox/infobox.php:123
+#: modules/our-team/our-team.php:146 modules/testimonial/testimonial.php:124
+msgid "Image"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:57 modules/infobox/infobox.php:35
+#: modules/our-team/our-team.php:35 modules/testimonial/testimonial.php:43
+msgid "Select Image"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:69 modules/flipbox/flipbox.php:189
+msgid "This is Heading"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:70 modules/flipbox/flipbox.php:190
+msgid "Title "
+msgstr ""
+
+#: modules/flipbox/flipbox.php:76 modules/flipbox/flipbox.php:196
+msgid ""
+"Flip Box is a very eye-catching element that can fit anywhere on any "
+"website and it helps in displaying information to the user."
+msgstr ""
+
+#: modules/flipbox/flipbox.php:82 modules/flipbox/flipbox.php:214
+msgid "Background Type"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:86 modules/flipbox/flipbox.php:218
+msgid "Classic"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:87 modules/flipbox/flipbox.php:219
+msgid "Gradient"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:119 modules/flipbox/flipbox.php:251
+#: modules/pricing-table/pricing-table.php:180
+msgid "Position"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:122 modules/flipbox/flipbox.php:140
+#: modules/flipbox/flipbox.php:151 modules/flipbox/flipbox.php:164
+#: modules/flipbox/flipbox.php:254 modules/flipbox/flipbox.php:272
+#: modules/flipbox/flipbox.php:283 modules/flipbox/flipbox.php:296
+msgid "Default"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:123 modules/flipbox/flipbox.php:255
+msgid "Center Center"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:124 modules/flipbox/flipbox.php:256
+msgid "Center Left"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:125 modules/flipbox/flipbox.php:257
+msgid "Center Right"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:126 modules/flipbox/flipbox.php:258
+msgid "Top Center"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:127 modules/flipbox/flipbox.php:259
+msgid "Top Left"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:128 modules/flipbox/flipbox.php:260
+msgid "Top Right"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:129 modules/flipbox/flipbox.php:261
+msgid "Bottom Center"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:130 modules/flipbox/flipbox.php:262
+msgid "Bottom Left"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:131 modules/flipbox/flipbox.php:263
+msgid "Bottom Right"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:137 modules/flipbox/flipbox.php:269
+msgid "Attachment"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:141 modules/flipbox/flipbox.php:273
+msgid "Scroll"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:142 modules/flipbox/flipbox.php:274
+msgid "Fixed"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:148 modules/flipbox/flipbox.php:152
+#: modules/flipbox/flipbox.php:280 modules/flipbox/flipbox.php:284
+msgid "Repeat"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:153 modules/flipbox/flipbox.php:285
+msgid "No-Repeat"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:154 modules/flipbox/flipbox.php:286
+msgid "Repeat-X"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:155 modules/flipbox/flipbox.php:287
+msgid "Repeat-Y"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:165 modules/flipbox/flipbox.php:297
+msgid "Auto"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:166 modules/flipbox/flipbox.php:298
+msgid "Cover"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:167 modules/flipbox/flipbox.php:299
+msgid "Contain"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:173 modules/flipbox/flipbox.php:305
+msgid "Background Gradient"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:184
+msgid "Back"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:316
+msgid "Settings"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:321 modules/progress-bar/progress-bar.php:101
+msgid "Height"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:333
+msgid "Flip Effect"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:336
+msgid "Flip"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:337
+msgid "Slide"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:338
+msgid "Zoom In"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:339
+msgid "Zoom Out"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:353
+msgid "Flip Direction"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:356
+msgid "Left"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:357
+msgid "Right"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:358
+msgid "Up"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:359
+msgid "Down"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:368
+msgid "Front Style"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:372
+msgid "Front Content"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:424 modules/infobox/infobox.php:128
+#: modules/pull-quotes/pull-quotes.php:222
+msgid "Width"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:439 modules/infobox/infobox.php:143
+#: modules/our-team/our-team.php:171
+msgid "Image Spacing"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:483
+msgid "Icon Spacing"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:580
+msgid "Back Style"
+msgstr ""
+
+#: modules/flipbox/flipbox.php:584
+msgid "Back Content"
+msgstr ""
+
+#: modules/infobox/infobox.php:7
+msgid "Infobox"
+msgstr ""
+
+#: modules/infobox/infobox.php:41
+msgid "Alt"
+msgstr ""
+
+#: modules/our-team/our-team.php:7
+msgid "Our Team"
+msgstr ""
+
+#: modules/our-team/our-team.php:41 modules/our-team/our-team.php:42
+#: modules/our-team/our-team.php:196 modules/testimonial/testimonial.php:50
+#: modules/testimonial/testimonial.php:177
+msgid "Name"
+msgstr ""
+
+#: modules/our-team/our-team.php:47
+msgid "Name HTML Tag"
+msgstr ""
+
+#: modules/our-team/our-team.php:61 modules/our-team/our-team.php:62
+#: modules/our-team/our-team.php:238 modules/testimonial/testimonial.php:56
+msgid "Designation"
+msgstr ""
+
+#: modules/our-team/our-team.php:69 modules/pricing-table/pricing-table.php:97
+#: modules/pricing-table/pricing-table.php:512
+#: modules/progress-bar/progress-bar.php:52
+msgid "Show"
+msgstr ""
+
+#: modules/our-team/our-team.php:70 modules/pricing-table/pricing-table.php:98
+#: modules/pricing-table/pricing-table.php:513
+#: modules/progress-bar/progress-bar.php:53
+msgid "Hide"
+msgstr ""
+
+#: modules/our-team/our-team.php:82
+msgid "Social Share"
+msgstr ""
+
+#: modules/our-team/our-team.php:300
+msgid "Spacing between element"
+msgstr ""
+
+#: modules/our-team/our-team.php:314
+msgid "Icon Padding"
+msgstr ""
+
+#: modules/our-team/our-team.php:338
+msgid "Icon-Color"
+msgstr ""
+
+#: modules/our-team/our-team.php:351
+msgid "Background-Color"
+msgstr ""
+
+#: modules/our-team/our-team.php:369
+msgid "Add Social Icon/Image"
+msgstr ""
+
+#: modules/our-team/our-team.php:380
+msgid "Social Share Type"
+msgstr ""
+
+#: modules/our-team/our-team.php:383
+msgid "Facebook"
+msgstr ""
+
+#: modules/our-team/our-team.php:384
+msgid "Twitter"
+msgstr ""
+
+#: modules/our-team/our-team.php:385
+msgid "Google"
+msgstr ""
+
+#: modules/our-team/our-team.php:386
+msgid "Pinterest"
+msgstr ""
+
+#: modules/our-team/our-team.php:387
+msgid "LinkedIn"
+msgstr ""
+
+#: modules/our-team/our-team.php:388
+msgid "Digg"
+msgstr ""
+
+#: modules/our-team/our-team.php:389
+msgid "Blogger"
+msgstr ""
+
+#: modules/our-team/our-team.php:390
+msgid "Reddit"
+msgstr ""
+
+#: modules/our-team/our-team.php:391
+msgid "StumbleUpon"
+msgstr ""
+
+#: modules/our-team/our-team.php:392
+msgid "Tumblr"
+msgstr ""
+
+#: modules/our-team/our-team.php:393
+msgid "Myspace"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:7
+msgid "Pricing Table"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:27
+#: modules/pricing-table/pricing-table.php:213
+msgid "Header"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:32
+msgid "Enter Your Title"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:38
+msgid "Enter your Description"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:45
+#: modules/pricing-table/pricing-table.php:297
+msgid "Pricing"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:50
+msgid "Currency Symbol"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:54
+msgid "$ Dollar"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:55
+msgid "€ Euro"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:56
+msgid "฿ Baht"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:57
+msgid "₣ Franc"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:58
+msgid "ƒ Guilder"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:59
+msgid "kr Krona"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:60
+msgid "₤ Lira"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:61
+msgid "₧ Peseta"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:62
+msgid "₱ Peso"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:63
+msgid "£ Pound Sterling"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:64
+msgid "R$ Real"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:65
+msgid "₽ Ruble"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:66
+msgid "₨ Rupee"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:67
+msgid "₹ Rupee (Indian)"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:68
+msgid "₪ Shekel"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:69
+msgid "¥ Yen/Yuan"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:70
+msgid "₩ Won"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:71
+msgid "Custom"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:82
+msgid "Custom Symbol"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:89
+msgid "Price"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:94
+msgid "Sale"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:111
+msgid "Original Price"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:116
+msgid "Monthly"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:117
+msgid "Period"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:123
+#: modules/pricing-table/pricing-table.php:450
+msgid "Features"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:127
+#: modules/pricing-table/pricing-table.php:757
+msgid "List Item"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:136
+#: modules/pricing-table/pricing-table.php:577
+msgid "Footer"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:154
+#: modules/pricing-table/pricing-table.php:680
+msgid "Ribbon"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:159
+msgid "Show Ribbon"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:162
+msgid "Yes"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:163
+msgid "No"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:174
+msgid "Popular"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:183
+#: modules/pricing-table/pricing-table.php:370
+msgid "|<-"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:184
+#: modules/pricing-table/pricing-table.php:371
+msgid "->|"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:202
+msgid "Box Border"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:250
+msgid "Title Color"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:263
+msgid "Title Typography"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:273
+msgid "Description Color"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:286
+msgid "Description Typography"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:334
+msgid "Price Color"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:346
+msgid "Price Typography"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:356
+msgid "Currency Size"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:367
+msgid "Currency Position"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:389
+msgid "Original Price & Period"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:394
+msgid "Original Price Color"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:407
+msgid "Original Price Typography"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:417
+msgid "Period Color"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:429
+msgid "Period Typography"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:439
+msgid "Period Position"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:442
+msgid "Below"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:443
+msgid "Beside"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:499
+msgid "Feature Typography"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:509
+msgid "Divider"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:527
+msgid "Solid"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:528
+msgid "Double"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:529
+msgid "Dotted"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:530
+msgid "Dashed"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:536
+msgid "Divider Color"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:548
+msgid "Weight"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:559
+#: modules/pull-quotes/pull-quotes.php:163
+#: modules/pull-quotes/pull-quotes.php:235
+#: modules/pull-quotes/pull-quotes.php:279
+msgid "Gap"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:595
+msgid "Footer Padding"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:627
+msgid "Button Background Color"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:650
+msgid "Text Padding"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:685
+msgid "Background color"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:697
+msgid "Distance"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:710
+msgid "Text color"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:732
+msgid "Ribbon Border"
+msgstr ""
+
+#: modules/pricing-table/pricing-table.php:746
+msgid "Add List Items"
+msgstr ""
+
+#: modules/progress-bar/progress-bar.php:7
+#: modules/progress-bar/progress-bar.php:30
+#: modules/progress-bar/progress-bar.php:72
+msgid "Progress Bar"
+msgstr ""
+
+#: modules/progress-bar/progress-bar.php:35
+#: modules/progress-bar/progress-bar.php:36
+msgid "My Skill"
+msgstr ""
+
+#: modules/progress-bar/progress-bar.php:41
+msgid "Percentage"
+msgstr ""
+
+#: modules/progress-bar/progress-bar.php:49
+msgid "Display Percentage"
+msgstr ""
+
+#: modules/progress-bar/progress-bar.php:59
+#: modules/progress-bar/progress-bar.php:136
+msgid "Inner Text"
+msgstr ""
+
+#: modules/progress-bar/progress-bar.php:60
+msgid "Web Designer"
+msgstr ""
+
+#: modules/progress-bar/progress-bar.php:121
+msgid "Border Radius"
+msgstr ""
+
+#: modules/progress-bar/progress-bar.php:178
+msgid "Title Style"
+msgstr ""
+
+#: modules/pull-quotes/pull-quotes.php:7
+msgid "Pull Quotes"
+msgstr ""
+
+#: modules/pull-quotes/pull-quotes.php:35
+msgid "Skin"
+msgstr ""
+
+#: modules/pull-quotes/pull-quotes.php:39
+msgid "Quotation"
+msgstr ""
+
+#: modules/pull-quotes/pull-quotes.php:40
+msgid "Clean"
+msgstr ""
+
+#: modules/pull-quotes/pull-quotes.php:70
+msgid "Author name"
+msgstr ""
+
+#: modules/pull-quotes/pull-quotes.php:71
+#: modules/pull-quotes/pull-quotes.php:176
+msgid "Author"
+msgstr ""
+
+#: modules/pull-quotes/pull-quotes.php:204
+msgid "border"
+msgstr ""
+
+#: modules/pull-quotes/pull-quotes.php:209
+msgid "border Color"
+msgstr ""
+
+#: modules/pull-quotes/pull-quotes.php:248
+msgid "quotation"
+msgstr ""
+
+#: modules/pull-quotes/pull-quotes.php:253
+msgid "Quotation Color"
+msgstr ""
+
+#: modules/testimonial/testimonial.php:7
+#: modules/testimonial/testimonial.php:30
+msgid "Testimonial"
+msgstr ""
+
+#: modules/testimonial/testimonial.php:49
+msgid "Add Name"
+msgstr ""
+
+#: modules/testimonial/testimonial.php:55
+msgid "Add designation"
+msgstr ""
+
+#: modules/testimonial/testimonial.php:129
+msgid "Image Size"
+msgstr ""
+
+#: modules/testimonial/testimonial.php:205
+msgid "Designtion"
+msgstr ""

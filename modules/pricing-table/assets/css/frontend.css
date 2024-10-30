@@ -1,0 +1,110 @@
+/* CSS of Widget Pricing Table */
+
+.mkbb-box-style-pt {
+    position: relative;
+    text-align: center;
+    overflow: hidden;
+}
+.mkbb-header-style-pt {
+    padding: 20px 0px;
+}
+.mkbb-pricing-style-pt {
+    padding: 20px 0px;
+}
+.mkbb-header-title-style-pt {
+    font-Size: 30px;
+    font-Weight: medium;	
+    font-family: Roboto,sans-serif;
+}
+.mkbb-header-description-style-pt {
+    font-Size: 15px;
+    font-Weight: 400;
+    line-Height: 24px;
+    font-family: Roboto,sans-serif;
+}
+.mkbb-currency-style-pt {
+    vertical-align: top;
+}
+.mkbb-original-price-style-pt {
+    font-Size: 17px;
+    font-Weight: 500;
+    line-Height: 31.5714pxpx;
+    font-family: Roboto,sans-serif;
+    text-decoration: line-through;
+}
+.mkbb-price-style-pt {
+    font-Size: 48px;
+    font-Weight: 500;
+    line-Height: 90px;
+    font-family: Roboto,sans-serif;
+}
+.mkbb-period-style-pt {
+    margin-top: -12px;
+    font-Size: 20px;
+    font-Weight: 400;
+    line-Height: 37.1429px;
+    font-family: Roboto,sans-serif;
+}
+.mkbb-features-style-pt {
+    font-Size: 18px;
+    font-Weight: 400;
+    line-Height: 33.4286px;
+    font-family: Roboto,sans-serif;
+    padding: 32px 0px;
+    list-style-type: none;
+    margin: 0px;
+}
+.mkbb-button-style-pt {
+    font-Size: 18px;
+    font-Weight: 500;
+    line-Height: 33.4286px;
+    font-family: Roboto,sans-serif;
+    padding: 7px 17px;
+}
+.mkbb-button-style-pt-css {
+    padding: 20px;
+}
+.mkbb-ribbon-style-right-div-pt {
+    position: absolute;
+    top: 0;
+    left: auto;
+    right: 0;	
+    -webkit-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+    width: 150px;
+    overflow: hidden;
+    height: 150px;
+}
+.mkbb-ribbon-style-left-div-pt {
+    position: absolute;
+    top: 0;
+    left: 0;	
+    -webkit-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    transform: rotate(0deg);
+    width: 150px;
+    overflow: hidden;
+    height: 150px;
+}
+.mkbb-ribbon-style-pt {
+    left: 0;
+    width: 300%;
+    -webkit-transform: translateY(-50%) translateX(-50%) translateX(35px) rotate(-45deg);
+    -ms-transform: translateY(-50%) translateX(-50%) translateX(35px) rotate(-45deg);
+    transform: translateY(-50%) translateX(-50%) translateX(35px) rotate(-45deg);
+}
+.mkbb-ribbon-text-style-pt {
+    font-size: 13px;
+    line-height: 2;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-align: centre;
+}
+
+.mkbb-features-style-pt li {
+    margin: 0px;
+}
+.mkbb-box-style-pt a {
+    text-decoration: none;
+}

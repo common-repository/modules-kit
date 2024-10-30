@@ -1,0 +1,13 @@
+/* CSS of Widget Pull Quotes */
+.mkbb-content-style-pullquotes {
+    font-size:15px;
+    font-weight:400;
+    line-height:28px;
+    color:rgb(122, 122, 122);
+}
+.mkbb-author-style-pullquotes {
+    font-size:15px;
+    font-weight:700;
+    line-height:28px;
+    color:rgb(84, 89, 95);
+}

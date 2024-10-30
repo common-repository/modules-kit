@@ -1,0 +1,60 @@
+/* CSS of widget Dual Button */
+
+.mkbb-dual-button-box {
+    position: relative;
+}
+.mkbb-dual-button {
+    display: flex;
+    overflow: hidden;
+}
+.mkbb-button-horizontal {
+    width: 50%;
+    text-align: center;
+}
+.mkbb-button-connector {
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    right: 0;
+    left: 0;
+    height: 32px;
+    text-align: center;
+    line-height: 32px;
+    width: 32px;
+    z-index: 2;
+    -webkit-transform: translate(0%,-50%);
+    -moz-transform: translate(0%,-50%);
+    -o-transform: translate(0%,-50%);
+    -ms-transform: translate(0%,-50%);
+    transform: translate(0%,-50%);
+}
+.mkbb-button-one-a {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    color: #ffffff;
+}
+.mkbb-button-two-a {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    color: #ffffff;
+}
+.mkbb-button-connector {
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+.mkbb-button-two-text {
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+}
+.mkbb-button-one-text {
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 500;
+}

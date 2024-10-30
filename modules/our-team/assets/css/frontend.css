@@ -1,0 +1,40 @@
+/* CSS for widget Our Team */
+.mkbb-image-style-ot {
+    width: 180px;
+    height: 180px;
+}
+.mkbb-name-style-ot {
+    line-height: 30px;
+    color: rgb(58, 58, 58);
+}
+.mkbb-designation-style-ot {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    color: rgb(58, 58, 58);
+}
+.mkbb-content-style-ot {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.mkbb-social-link-style-ot {
+    display: inline-block;
+    line-height: 1;
+    border-radius: 50%;
+    font-size: 25px;
+    text-align: center;
+    padding: 0.3em;
+    text-decoration: none;
+}
+.mkbb-social-link-style-ot i {
+    width: 1em;
+    height: 1em;
+    position: relative;
+    display: block;
+}
+.mkbb-content-style-ot img {
+    display: inline;
+}
+.mkbb-content-style-ot h6 {
+    text-transform: none;
+}

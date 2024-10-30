@@ -1,0 +1,40 @@
+/* CSS of Widget Testimonial */
+.mkbb-image-style-testimonial {
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    vertical-align: middle;
+    margin-right: 15px;
+}
+.mkbb-link-testimonial {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+}
+.mkbb-name-style-testimonial {
+    font-Size: 15px;
+    font-weight: 600;
+    line-height: 23px;
+    Color: rgb(110, 193, 228);
+}
+.mkbb-box-style-testimonial {
+    padding: 25px;
+}
+.mkbb-content-style-testimonial {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 37px;
+    color: rgb(122, 122, 122);
+}
+.mkbb-designation-style-testimonial {
+    font-Size: 13px;
+    font-weight: 400;
+    line-height: 13px;
+    color: rgb(84, 89, 95);
+}
+.mkbb-box-style-testimonial img {
+    display: inline;
+}
+.mkbb_link_testimonail {
+    text-decoration: none;
+}

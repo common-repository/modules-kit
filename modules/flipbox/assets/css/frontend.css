@@ -1,0 +1,53 @@
+/* CSS of widget Flipbox */
+
+.mkbb-flip-box-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    transition: transform 1s;
+    transform-style: preserve-3d;
+    -webkit-transform-style:preserve-3d;
+}
+.mkbb-flip-box {
+    -webkit-perspective: 1000;
+    perspective: 1000;
+}
+.mkbb-front-style-flpb {
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+    border: 1px solid #ababab;
+    padding-top: 80px;
+}
+.mkbb-back-style-flpb {
+    width: 100%;
+    height: 100%;
+    padding: 50px;
+    border: 1px solid #ababab;
+}
+.mkbb-front-title-style-flpb {
+    font-size: 30px;
+    font-weight: medium;
+    font-family: roboto;
+}
+.mkbb-front-description-style-flpb {
+    font-size: 14px;
+    font-weight: normal;
+    font-family: roboto;
+}
+.mkbb-back-title-style-flpb {
+    font-size: 40px;
+    font-weight: medium;
+    font-family: roboto;
+}
+.mkbb-back-description-style-flpb {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: roboto;
+}
+.mkbb-back-button-style-flpb {
+    padding: 7px 20px;
+    font-size: 18px;
+    font-weight: medium;
+    font-family: roboto;
+}

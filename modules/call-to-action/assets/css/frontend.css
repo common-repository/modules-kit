@@ -1,0 +1,14 @@
+/* CSS of widget Call to Action */
+.mkbb-button-style-cta {
+    border: 3px solid #626568;
+    padding: 5px 10px 5px 10px;
+}
+.mkbb-box-style {
+    padding: 30px;
+}
+.mkbb-box-style h6 {
+    text-transform: none ;
+}
+.mkbb-button-style-cta-a {
+    text-decoration: none;
+}
